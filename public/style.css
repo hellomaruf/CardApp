@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.headerTitle {
+  background-color: rgb(167, 13, 167);
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+.card {
+  background-color: rgb(225, 225, 225);
+  width: 300px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.cardImg img {
+  width: 300px;
+  padding: 15px;
+}
+.cardContent {
+  padding: 0 15px;
+  padding-bottom: 15px;
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  margin-bottom: 20px;
+  padding: 5px 15px;
+  border-radius: 15px;
+  border: none;
+  background-color: black;
+  color: white;
+  font-size: 12px;
+}
+.colors {
+  display: flex;
+  padding: 0 15px;
+  padding-bottom: 15px;
+}
+.colors .color1 {
+  height: 30px;
+  margin: 0 5px;
+  width: 30px;
+  border-radius: 20px;
+  background-color: rgb(200, 50, 50);
+}
+.colors .color2 {
+  height: 30px;
+  width: 30px;
+  margin: 0 5px;
+  border-radius: 20px;
+  background-color: rgb(46, 44, 42);
+}
+.colors .color3 {
+  height: 30px;
+  width: 30px;
+  margin: 0 5px;
+  border-radius: 20px;
+  background-color: rgb(234, 145, 44);
+}
+.colors .color4 {
+  height: 30px;
+  width: 30px;
+  margin: 0 5px;
+  border-radius: 20px;
+  background-color: rgb(50, 72, 194);
+}

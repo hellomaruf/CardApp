@@ -1,0 +1,32 @@
+[
+    {
+        "img" : "./imgs/shoes.png",
+        "cardTitle" : "Snickers Black",
+        "shoes" : "Nick",
+        "price" : "$34.00"
+    },
+    {
+        "img" : "./imgs/shoes1.png",
+        "cardTitle" : "Nick white",
+        "shoes" : "Nick",
+        "price" : "$34.00"
+    },
+    {
+        "img" : "./imgs/shoes2.png",
+        "cardTitle" : "Nick grey 2024",
+        "shoes" : "Nick",
+        "price" : "$34.00"
+    },
+    {
+        "img" : "./imgs/shoes3.png",
+        "cardTitle" : "Snickers white",
+        "shoes" : "Nick",
+        "price" : "$34.00"
+    },
+    {
+        "img" : "./imgs/shoes4.png",
+        "cardTitle" : "Snickers Teal",
+        "shoes" : "Nick",
+        "price" : "$34.00"
+    }
+]
